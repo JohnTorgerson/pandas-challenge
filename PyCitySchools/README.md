@@ -105,5 +105,12 @@ On [Bootcamp Spot](https://bootcampspot-v2.com), submit a link to the `pandas-ch
 
 [Unit 4 Homework Rubric](https://docs.google.com/document/d/1VwP0gfKN-ZGZvIhuaKmx00wCcPOMC5qofXXFcUGe90E/edit?usp=sharing)
 
+- - -
+
+## Team members
+
+YOLO Solo
+Sanoo Singh
+Sam Espe
 
 
